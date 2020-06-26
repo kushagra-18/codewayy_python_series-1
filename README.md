@@ -16,3 +16,7 @@
 1. A program in Python for calculating and printing details(full name, total marks, percentage, grade) of a student using functions.
 2. A program in Python to calculate the length of two strings by concatenating them.
 3. A program in Python to print all the numbers from 1 to 10 except 3 and 7 using for and while loops.
+
+## Task 4:
+1. A program in Python to print all the prime numbers in n*n matrix.
+2. A program in Python which imports files as modules. The modules contain user defined list functions, string functions and logical operator functions.
