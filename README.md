@@ -18,5 +18,13 @@
 3. A program in Python to print all the numbers from 1 to 10 except 3 and 7 using for and while loops.
 
 ## Task 4:
+
 1. A program in Python to print all the prime numbers in n*n matrix.
 2. A program in Python which imports files as modules. The modules contain user defined list functions, string functions and logical operator functions.
+
+## Task 5:
+
+1. A program in Python which makes use of the Python error handling, your program should include try, catch, and raise keyword.
+2. A program in Python which makes use of the different match functions(min 3) and the sort function for list, tuples, sets etc.
+3. A program in Python to read a text file and print it’s content.
+4. A program in Python which should take a string of 3-4 lines and write it to a txt file.
