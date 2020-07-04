@@ -41,3 +41,7 @@ def findType (n):
 The Function should return 1 if the given integer is a deficient number, return 0 if it is a perfect number and return -1 if it is a abundant number.
 7. A function named check_marks. This method checks whether the marks is greater than or equal to 90 and if it is greater than or equal to 90, the method returns true. If the marks are less than 90, a custom Exception named NotEligibleException is raised and an appropriate message as shown in the sample output is displayed.
 
+## Task 7:
+
+1. A python program to print student details using class and objects.
+
