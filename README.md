@@ -45,3 +45,6 @@ The Function should return 1 if the given integer is a deficient number, return 
 
 1. A python program to print student details using class and objects.
 
+## Task 8:
+
+1. A program to help the registrar’s office of the university to prepare the grade reports for the students.
